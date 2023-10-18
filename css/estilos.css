@@ -21,6 +21,9 @@ h1 {
   margin-bottom: 20px;
   font-size: 2rem;
 }
+h2 {
+  color: rgb(144, 21, 21);
+  margin-bottom: 20px;}
 
 .teclado {
   background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
