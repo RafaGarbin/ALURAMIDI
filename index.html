@@ -14,15 +14,15 @@
     <link rel="icon" type="image/png" href="images/bateria.png">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/estilos.css">
-
+    <script src="main.js"></script>
 </head>
 <body>
 
     <h1>Vamos tocar o som!</h1>
-
+    <h2>Prof Rafa Garbin</h2>
     <section class="teclado">
-        <button onclick="alert('olá')" class="tecla tecla_pom">1</button>
-        <button onclick="alert('kkkk')" class="tecla tecla_clap">2</button>
+        <button  class="tecla tecla_pom">1</button>
+        <button class="tecla tecla_clap">2</button>
         <button class="tecla tecla_tim">3</button>
 
         <button class="tecla tecla_puff">4</button>
@@ -34,7 +34,7 @@
         <button class="tecla tecla_tom">?</button>
     </section>
 
-    <audio src="sounds/aplausos.wav" id="som_tecla_aplausos"></audio>
+    <audio controls src="sounds/aplausos.wav" id="som_tecla_aplausos"></audio>
     <audio src="sounds/vaia.wav" id="som_tecla_vaia"></audio>
     <audio src="sounds/risadas.wav" id="som_tecla_risada"></audio>
     <audio src="sounds/errado.wav" id="som_tecla_errado"></audio>
