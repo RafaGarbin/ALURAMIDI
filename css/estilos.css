@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background: linear-gradient(45deg, #cc8bed 0%,#7f12d2 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: var(--branca);
+  color: rgb(156, 74, 74);
   margin-bottom: 20px;
   font-size: 2rem;
 }
