@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient( #001ee3 ,#12d232);
+  background: linear-gradient( #000000 ,#ff8300);
   display: flex;
   justify-content: center;
   flex-direction: column;
