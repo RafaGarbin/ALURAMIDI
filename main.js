@@ -3,12 +3,12 @@ function tocaSomAplausos(){
 }
 document.querySelector('.tecla_aplausos').onclick=tocaSomAplausos;
 
-function tocaSomAplausos(){
-    document.querySelector('#som_tecla_aplausos').play();
+function tocaSomVaia(){
+    document.querySelector('#som_tecla_vaia').play();
 }
-document.querySelector('.tecla_aplausos').onclick=tocaSomAplausos;
-F
-unction tocaSomAplausos(){
+document.querySelector('.tecla_vaia').onclick=tocaSomVaia;
+
+function tocaSomAplausos(){
     document.querySelector('#som_tecla_aplausos').play();
 }
 document.querySelector('.tecla_aplausos').onclick=tocaSomAplausos;
