@@ -8,10 +8,10 @@ function tocaSomVaia(){
 }
 document.querySelector('.tecla_vaia').onclick=tocaSomVaia;
 
-function tocaSomRisada(){
-    document.querySelector('#som_tecla_risada').play();
+function tocaSomRisadas(){
+    document.querySelector('#som_tecla_risadas').play();
 }
-document.querySelector('.tecla_risada').onclick=tocaSomRisada;
+document.querySelector('.tecla_risadas').onclick=tocaSomRisadas;
 
 function tocaSomErrado(){
     document.querySelector('#som_tecla_errado').play();
