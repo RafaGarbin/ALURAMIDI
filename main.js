@@ -8,7 +8,7 @@ function tocaSomVaia(){
 }
 document.querySelector('.tecla_vaia').onclick=tocaSomVaia;
 
-function tocaSomAplausos(){
-    document.querySelector('#som_tecla_aplausos').play();
+function tocaSomErrado(){
+    document.querySelector('#som_tecla_errado').play();
 }
-document.querySelector('.tecla_aplausos').onclick=tocaSomAplausos;
+document.querySelector('.tecla_errado').onclick=tocaSomErrado;
