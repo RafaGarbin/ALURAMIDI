@@ -8,6 +8,11 @@ function tocaSomVaia(){
 }
 document.querySelector('.tecla_vaia').onclick=tocaSomVaia;
 
+function tocaSomRisada(){
+    document.querySelector('#som_tecla_risada').play();
+}
+document.querySelector('.tecla_risada').onclick=tocaSomRisada;
+
 function tocaSomErrado(){
     document.querySelector('#som_tecla_errado').play();
 }
