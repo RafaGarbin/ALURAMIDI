@@ -13,6 +13,7 @@ document.querySelector('.tecla_risadas').onclick=tocaSomRisadas;
 
 
 
+
 function tocaSomErrado(  ){
     document.querySelector ('#som_tecla_errado').play(  );             }
 document.querySelector('.tecla_errado').onclick=tocaSomErrado;
