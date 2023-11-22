@@ -38,6 +38,6 @@ function tocaSomDinheiro(  ){
 document.querySelector('.tecla_dinheiro').onclick=tocaSomDinheiro;
 
 
-function tocaSomVitoria(  ){
-    document.querySelector ('#som_tecla_vitoria').play(  );             }
-document.querySelector('.tecla_vitoria').onclick=tocaSomVitoria;
+function tocaSom?(  ){
+    document.querySelector ('#som_tecla_?').play(  );             }
+document.querySelector('.tecla_?').onclick=tocaSom?;
