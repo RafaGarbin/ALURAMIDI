@@ -4,17 +4,17 @@ function tocaSomAplausos(  ){
 document.querySelector('.tecla_aplausos').onclick=tocaSomAplausos;
 
 function tocaSomVitoria(  ){
-    document.querySelector('# som_tecla_vitoria').play( );
+    document.querySelector('#som_tecla_vitoria').play( );
 }
 document.querySelector('.tecla_vitoria').onclick=tocaSomVitoria;
 
 function tocaSomVaia(  ){
-    document.querySelector('# som_tecla_vaia').play( );
+    document.querySelector('#som_tecla_vaia').play( );
 }
 document.querySelector('.tecla_vaia').onclick=tocaSomVaia;
 
 function tocaSomRisadas(  ){
-    document.querySelector('# som_tecla_risadas').play( );
+    document.querySelector('#som_tecla_risadas').play( );
 }
 document.querySelector('.tecla_risadas').onclick=tocaSomRisadas;
 
